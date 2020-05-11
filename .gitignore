@@ -1,0 +1,5 @@
+pictures/
+venv/
+.idea/
+.google_cookie
+.settings.py
